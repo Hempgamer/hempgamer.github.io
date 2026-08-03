@@ -6,5 +6,5 @@ excerpt: "Short abstract of your paper..."
 date: 2024-02-17
 venue: "CI-CRC Joint Conference, San Antonio, TX, USA"
 paperurl: 'https://link-to-pdf.com'
-category: Posters & Presentations
+category: posters
 ---
