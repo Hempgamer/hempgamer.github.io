@@ -24,12 +24,12 @@ repository               : "LitonSarker/litonsarker.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Liton Sarker | লিটন সরকার"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "PhD Student"
+  bio              : "PhD Student, LSU, USA"
   location         : "Baton Rouge, Louisiana, USA"
   employer         : "Louisiana State University"
-  uri              : https://www.lsu.edu/ # URL
+  uri              : "https://cici.lsu.edu/people.html" # URL
   email            : "Liton.Sarker@lsu.edu" 
 
   # Academic websites
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-3704-1709"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Liton-Sarker" # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,14 +57,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/BD.Liton.Sarker/" # Username
-  flickr           : "https://www.flickr.com/photos/litonsarker/" # Username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  facebook         : # "https://www.facebook.com/BD.Liton.Sarker/" # Username
+  flickr           : #"https://www.flickr.com/photos/litonsarker/" # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/liton.sarker.35/" # Username
+  instagram        : # "https://www.instagram.com/liton.sarker.35/" # Username
   lastfm           : # Username
   linkedin         : "https://www.linkedin.com/in/litonsarker/" # Username
   mastodon         : # URL
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/@sarkerliton" # Username
+  youtube          : # "https://www.youtube.com/@sarkerliton" # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
