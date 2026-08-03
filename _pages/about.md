@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 ___________________________________________________________________________________________________________________________
-##🎓 Academia & Research
+**🎓 Academia & Research**
+
 **Bridging Advanced AI with the Future of Construction Engineering**
+
 I am a PhD student working on using Computer Vision, 3D Point Cloud & Deep Learning for Construction Management Sector to enable Digital-Twins using cutting-edge AI tools and technologies. I am always open to collaborating, sharing insights, and exchanging knowledge between academia and industry.
 
 **Core Academic Capabilities:**
@@ -19,8 +21,10 @@ I am a PhD student working on using Computer Vision, 3D Point Cloud & Deep Learn
 
 
 
-##💼 Industry & Enterprise Leadership
+***💼 Industry & Enterprise Leadership***
+
 **16+ Years of Delivering Multi-Million Dollar Digital Transformations Globally**
+
 I have over 16 years of experience in leading, consulting, and architecting high-impact technology solutions. My career is defined by driving innovation and adopting cutting-edge technologies for enterprise clients across both the public and private sectors, both at home and abroad.
 
 **Executive & Technical Expertise:**
