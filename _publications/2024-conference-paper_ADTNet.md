@@ -5,5 +5,5 @@ excerpt: "Precise segmentation of skin cancer lesions plays a vital role in comp
 date: 2024-12-18
 venue: "ICECE 2024, Bangladesh University of Engineering & Technology (BUET), Bangladesh"
 category: conferences
-permalink: https://github.com/litonsarker.github.io/files/ADTNet Attention-Guided U-Netwith Dynamic CNN and Transformers for Skin Cancer Detection.pdf
+permalink: 'https://github.com/litonsarker.github.io/files/ADTNet Attention-Guided U-Netwith Dynamic CNN and Transformers for Skin Cancer Detection.pdf'
 ---
