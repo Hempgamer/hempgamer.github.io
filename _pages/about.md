@@ -14,8 +14,11 @@ ________________________________________________________________________________
 I am a PhD student working on using Computer Vision, 3D Point Cloud & Deep Learning for Construction Management Sector to enable Digital-Twins using cutting-edge AI tools and technologies. I am always open to collaborating, sharing insights, and exchanging knowledge between academia and industry.
 
 **Core Academic Capabilities:**
+* 3D Point Cloud Processing
+* Semantic Segmentation using Deep Learning for Construction Jobsite Elements
+* Synthetic & Real-World Data Mastery
+* Medical Image Analysis
 
-3D Point Cloud Processing | Semantic Segmentation using Deep Learning for Construction Jobsite Elements | Synthetic & Real-World Data Mastery | Medical Image Analysis
 
 
 **💼 Industry & Enterprise Leadership**
