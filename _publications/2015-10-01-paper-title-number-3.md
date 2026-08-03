@@ -1,5 +1,5 @@
 ---
-title: "Your Journal Paper Title Here"
+title: "Journal Papers#!"
 collection: publications
 permalink: /publication/2025-journal-paper
 excerpt: "Short abstract of your paper..."
